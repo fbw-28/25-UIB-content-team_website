@@ -1,0 +1,15 @@
+
+.team-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.profile-pic {
+  width: 250px;
+}
+
+
+.img_profile_home { 
+  width: 50px;
+}
